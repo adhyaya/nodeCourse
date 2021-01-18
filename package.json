@@ -1,0 +1,12 @@
+{
+  "name": "nodeandhttp",
+  "version": "1.0.0",
+  "description": "node http",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node index"
+  },
+  "author": "Mansi Thakur",
+  "license": "ISC"
+}
